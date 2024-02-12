@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\bin\Debug\net8.0\RistoMenu.exe
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\bin\Debug\net8.0\RistoMenu.deps.json
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\bin\Debug\net8.0\RistoMenu.runtimeconfig.json
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\bin\Debug\net8.0\RistoMenu.dll
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\bin\Debug\net8.0\RistoMenu.pdb
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.AssemblyInfo.cs
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.dll
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\refint\RistoMenu.dll
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.pdb
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\RistoMenu.genruntimeconfig.cache
+C:\Users\utente\Desktop\Epicode Corso2\S3\D1\RistoMenu\obj\Debug\net8.0\ref\RistoMenu.dll
